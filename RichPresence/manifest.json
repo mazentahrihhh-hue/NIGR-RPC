@@ -1,0 +1,10 @@
+{
+  "name": "NIGR Rich Presence",
+  "description": "Custom Rich Presence for Revenge",
+  "authors": [
+    {
+      "name": "ic32"
+    }
+  ],
+  "main": "index.js"
+}
