@@ -1,0 +1,13 @@
+{
+  "name": "Custom RPC",
+  "description": "Custom Rich Presence for Revenge Discord Android.",
+  "authors": [
+    {
+      "name": "ic32"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  }
+}
